@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="89e6840f-a239-460b-9f8c-8025dd5c5fa0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/indexAng.html" afterPath="$PROJECT_DIR$/indexAng.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="indexAng.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/indexAng.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-583">
-              <caret line="375" column="27" lean-forward="false" selection-start-line="375" selection-start-column="27" selection-end-line="375" selection-end-column="27" />
+            <state relative-caret-position="-64">
+              <caret line="401" column="81" lean-forward="false" selection-start-line="401" selection-start-column="81" selection-end-line="401" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -176,12 +175,12 @@
       <workItem from="1510988571212" duration="930000" />
       <workItem from="1511001293258" duration="5807000" />
       <workItem from="1511074700380" duration="2900000" />
-      <workItem from="1511299902843" duration="284000" />
+      <workItem from="1511299902843" duration="505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14709000" />
+    <option name="totallyTimeSpent" value="14930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="103" y="23" width="1176" height="773" extended-state="0" />
@@ -193,7 +192,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.460177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.460177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -454,8 +453,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/indexAng.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-583">
-          <caret line="375" column="27" lean-forward="false" selection-start-line="375" selection-start-column="27" selection-end-line="375" selection-end-column="27" />
+        <state relative-caret-position="-64">
+          <caret line="401" column="81" lean-forward="false" selection-start-line="401" selection-start-column="81" selection-end-line="401" selection-end-column="81" />
           <folding />
         </state>
       </provider>
